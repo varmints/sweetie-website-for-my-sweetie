@@ -33,10 +33,10 @@ export const homeObjTwo = {
 };
 
 export const homeObjThree = {
-  id: "about",
-  lightBg: false,
-  lightText: true,
-  LightTextDesc: true,
+  id: "services",
+  lightBg: true,
+  lightText: false,
+  LightTextDesc: false,
   topLine: "Premium Heart",
   headLine: "Unlimited love for Sweetie",
   description: "everything for my sweetie",
@@ -44,7 +44,7 @@ export const homeObjThree = {
   imgStart: false,
   img: require("../../images/undraw_Appreciation.svg").default,
   alt: "my love",
-  dark: true,
-  primary: true,
-  darkText: false,
+  dark: false,
+  primary: false,
+  darkText: true,
 };
