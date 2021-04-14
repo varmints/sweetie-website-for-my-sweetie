@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sweetie-website-for-my-sweetie/static/css/main.2b0575a0.chunk.css",
+    "main.js": "/sweetie-website-for-my-sweetie/static/js/main.38b0fb7c.chunk.js",
+    "main.js.map": "/sweetie-website-for-my-sweetie/static/js/main.38b0fb7c.chunk.js.map",
+    "runtime-main.js": "/sweetie-website-for-my-sweetie/static/js/runtime-main.a0c14bd5.js",
+    "runtime-main.js.map": "/sweetie-website-for-my-sweetie/static/js/runtime-main.a0c14bd5.js.map",
+    "static/js/2.cfacd636.chunk.js": "/sweetie-website-for-my-sweetie/static/js/2.cfacd636.chunk.js",
+    "static/js/2.cfacd636.chunk.js.map": "/sweetie-website-for-my-sweetie/static/js/2.cfacd636.chunk.js.map",
+    "index.html": "/sweetie-website-for-my-sweetie/index.html",
+    "static/css/main.2b0575a0.chunk.css.map": "/sweetie-website-for-my-sweetie/static/css/main.2b0575a0.chunk.css.map",
+    "static/js/2.cfacd636.chunk.js.LICENSE.txt": "/sweetie-website-for-my-sweetie/static/js/2.cfacd636.chunk.js.LICENSE.txt",
+    "static/media/undraw_Appreciation.svg": "/sweetie-website-for-my-sweetie/static/media/undraw_Appreciation.0e667aff.svg",
+    "static/media/undraw_Location_search.9eeeb172.svg": "/sweetie-website-for-my-sweetie/static/media/undraw_Location_search.9eeeb172.svg",
+    "static/media/undraw_Reading.svg": "/sweetie-website-for-my-sweetie/static/media/undraw_Reading.c3bd5acf.svg",
+    "static/media/undraw_Social_life.svg": "/sweetie-website-for-my-sweetie/static/media/undraw_Social_life.ff83584b.svg",
+    "static/media/video.2cbc9e44.mp4": "/sweetie-website-for-my-sweetie/static/media/video.2cbc9e44.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0c14bd5.js",
+    "static/js/2.cfacd636.chunk.js",
+    "static/css/main.2b0575a0.chunk.css",
+    "static/js/main.38b0fb7c.chunk.js"
+  ]
+}
