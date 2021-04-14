@@ -1,6 +1,6 @@
 {
   "name": "react-sweetie-website",
-  "homepage": "https://varmints.github.io/sweetie-website-for-my-sweetie/",
+  "homepage": "https://varmints.github.io/sweetie-website-for-my-sweetie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
