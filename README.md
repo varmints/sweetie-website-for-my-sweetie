@@ -1,4 +1,4 @@
-# Watch produktion mode
+# Watch production mode
 
 https://varmints.github.io/sweetie-website-for-my-sweetie/
 
